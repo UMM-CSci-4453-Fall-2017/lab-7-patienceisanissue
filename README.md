@@ -722,7 +722,7 @@ Be sure to push the appropriate files to your group's repository.
  - [ ] As individuals make the following files functional programs by **typing** and add them to their group repository:
     - [x] `_name_.summarize-db.js` from the functions supplied in [approach one](#approach-one).  You will need to incorporate some other code to make it work
     - [x] `_name_.show-databases.js` from [back to databases](#back-to-databases)
-    - [ ] `_name_.dbf-setups.js` from [making things a big cleaner(#making-things-a-bit-cleaner)
+    - [x] `_name_.dbf-setups.js` from [making things a big cleaner(#making-things-a-bit-cleaner)
     - [ ] `_name_.dbf-summarize-db-promises.js` from [making things a big cleaner(#making-things-a-bit-cleaner)
  - [ ] As a group 
     - [ ] [Angular JS tutorial](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
