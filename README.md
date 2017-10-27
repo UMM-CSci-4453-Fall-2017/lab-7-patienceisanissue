@@ -725,11 +725,11 @@ Be sure to push the appropriate files to your group's repository.
     - [x] `_name_.dbf-setups.js` from [making things a big cleaner(#making-things-a-bit-cleaner)
     - [x] `_name_.dbf-summarize-db-promises.js` from [making things a big cleaner(#making-things-a-bit-cleaner)
  - [ ] As a group 
-    - [ ] [Angular JS tutorial](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
+    - [x] [Angular JS tutorial](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
       - [ ] `express.js` in root directory of project/repository
-      - [ ] `public/index.html`
-      - [ ] `public/app.js`
-      - [ ] `public/main.ctrl.js`
+      - [x] `public/index.html`
+      - [x] `public/app.js`
+      - [x] `public/main.ctrl.js`
     - [ ] Lab 7 Angular Exercise
       - [ ] `till_buttons` table
       - [ ] update `lab7server.js` to query `till_buttons`
