@@ -3,7 +3,7 @@
       <title>Learning AngularJS</title>
       <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js" type="text/javascript"></script>
       <script src="app.js" type="text/javascript"></script>
-      <script src="maincontroller.js" type="text/javascript"></script>
+      <script src="main.ctrl.js" type="text/javascript"></script>
     </head>
   <body>
     <div id='content' ng-app='MyTutorialApp' ng-controller='MainController'>
@@ -34,7 +34,7 @@
       <ul>
         <li ng-repeat='person in people | filter:searchText' ng-hide='person.live == false'>#{{person.id}} {{person.name}}</li>
       </ul>
-      
+
       <h2>Events</h2>
       <input type='text' ng-model='searchText' />
       <ul>
