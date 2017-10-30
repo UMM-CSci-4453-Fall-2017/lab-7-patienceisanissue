@@ -1,0 +1,13 @@
+Group Name:
+
+patienceisanissue
+
+Group Members:
+
+Sophia Mitchellette and Sydney Richards
+
+Database for till_buttons:
+
+mitc0417
+
+***lab7server.js is located in first_buttons folder
