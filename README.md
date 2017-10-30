@@ -726,7 +726,7 @@ Be sure to push the appropriate files to your group's repository.
     - [x] `_name_.dbf-summarize-db-promises.js` from [making things a big cleaner(#making-things-a-bit-cleaner)
  - [ ] As a group 
     - [x] [Angular JS tutorial](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
-      - [ ] `express.js` in root directory of project/repository
+      - [x] `express.js` in root directory of project/repository
       - [x] `public/index.html`
       - [x] `public/app.js`
       - [x] `public/main.ctrl.js`
