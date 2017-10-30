@@ -719,17 +719,17 @@ This 19 minutes video:  <http://www.restapitutorial.com/lessons/whatisrest.html>
 
 Be sure to push the appropriate files to your group's repository.
 
- - [ ] As individuals make the following files functional programs by **typing** and add them to their group repository:
+ - [x] As individuals make the following files functional programs by **typing** and add them to their group repository:
     - [x] `_name_.summarize-db.js` from the functions supplied in [approach one](#approach-one).  You will need to incorporate some other code to make it work
     - [x] `_name_.show-databases.js` from [back to databases](#back-to-databases)
     - [x] `_name_.dbf-setups.js` from [making things a big cleaner(#making-things-a-bit-cleaner)
     - [x] `_name_.dbf-summarize-db-promises.js` from [making things a big cleaner(#making-things-a-bit-cleaner)
- - [ ] As a group 
+ - [x] As a group 
     - [x] [Angular JS tutorial](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
       - [x] `express.js` in root directory of project/repository
       - [x] `public/index.html`
       - [x] `public/app.js`
       - [x] `public/main.ctrl.js`
-    - [ ] Lab 7 Angular Exercise
-      - [ ] `till_buttons` table
-      - [ ] update `lab7server.js` to query `till_buttons`
+    - [x] Lab 7 Angular Exercise
+      - [x] `till_buttons` table
+      - [x] update `lab7server.js` to query `till_buttons`
